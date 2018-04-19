@@ -1,4 +1,6 @@
 
+#TWITTER-API
+This python script can give you followersd count from any twiiter account and can also give search results (tweets, people)
 
 ### How to run
 python twitter_follower.py -u 50 -a <account_name> "test.csv"
